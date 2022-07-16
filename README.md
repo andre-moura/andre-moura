@@ -5,9 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre-moura&label=Profile%20views&color=0e75b6&style=flat" alt="andre-moura" />
 
-- 📫 How to reach me **mourandre11@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 How to reach me</h3> 
+<ul>
+<li>mourandre11@gmail.com</li>
+<li>andre.silva@sptech.school</li>
+</ul>
+<h3 align="left">🤝Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andr%C3%A9-moura-815a9a1a7/?trk=public-profile-join-page" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andr%c3%a9-moura-815a9a1a7" height="30" width="40" /></a>
 </p>
