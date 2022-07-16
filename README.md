@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<p align="center"><img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="800" height="250"/> </p>
 <h1 align="center">Hi 👋, I'm André Moura</h1>
 <h3 align="center">A passionate developer and computer scientist from Brazil</h3>
-<img align="right" alt="Coding" width="400px" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="400px" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andre-moura&label=Profile%20views&color=0e75b6&style=flat" alt="andre-moura" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andre-moura&label=Profile%20views&color=0e75b6&style=flat" alt="andre-moura" />
 
 - 📫 How to reach me **mourandre11@gmail.com**
 
