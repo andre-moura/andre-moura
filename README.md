@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%" height="250"/> </p>
+<p align="center"><img src="https://raw.githubusercontent.com/andre-moura/andre-moura/main/andre-moura-banner.png" width="100%" height="250"/> </p>
 <h1 align="center">Hi 👋, I'm André Moura</h1>
 <h3 align="center">A passionate developer and computer scientist from Brazil</h3>
 <img align="right" alt="Coding" width="400px" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
