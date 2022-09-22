@@ -18,4 +18,4 @@ function start() {
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=andre-moura&show_icons=true&locale=en" alt="andre-moura" style="width:50%px;"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andre-moura&" alt="andre-moura" style="width:50%px;"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andre-moura&show_icons=true&locale=en" alt="andre-moura" style="width:49%;"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andre-moura&" alt="andre-moura" style="width:49%;"/>
