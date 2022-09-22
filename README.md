@@ -1,3 +1,5 @@
+# André Moura
+
 <p align="center"><img src="https://raw.githubusercontent.com/andre-moura/andre-moura/main/banner.png" width="100%" height="250"/> </p>
 
 ```bash
@@ -5,7 +7,6 @@ function start() {
   console.log("Hello World!");
 }
 ```
-# André Moura
 
 <h3 align="left">How to reach me</h3> 
 
