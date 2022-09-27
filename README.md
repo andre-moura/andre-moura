@@ -10,8 +10,8 @@ function start() {
 
 <h3 align="left">How to reach me</h3> 
 
-- mourandre11@gmail.com 
-- andre.silva@sptech.school 
+- [Email Contact 1](mourandre11@gmail.com) 
+- [Email Contact 2](andre.silva@sptech.school)
 - <a href="https://www.linkedin.com/in/andr%C3%A9-moura-815a9a1a7/">Linkedin</a>
 
 <h3 align="left">Languages and Tools</h3>
