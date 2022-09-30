@@ -11,8 +11,8 @@ function start() {
 
 <h3 align="left">How to reach me</h3> 
 
-- [Email Contact](andre.silva@sptech.school)
-- <a href="https://www.linkedin.com/in/andr%C3%A9-moura-815a9a1a7/">Linkedin</a>
-- [Personal Website](https://andre-moura.github.io/andre-moura-website/)
+- <a href="andre.silva@sptech.school" target="_blank">Email Contact</a>
+- <a href="https://www.linkedin.com/in/andr%C3%A9-moura-815a9a1a7/" target="_blank">Linkedin</a>
+- <a href="https://andre-moura.github.io/andre-moura-website/" target="_blank">Personal Website</a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=andre-moura&show_icons=true&locale=en" alt="andre-moura" style="width:49%;"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andre-moura&" alt="andre-moura" style="width:49%;"/>
