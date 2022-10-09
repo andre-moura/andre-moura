@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/andre-moura/andre-moura/main/banner.png" width="100%" height="250"/> </p>
+<p align="center"><img src="https://github.com/andre-moura/andre-moura/blob/main/img/banner.png?raw=true" width="100%" height="250"/> </p>
 
 ```bash
 function start() {
