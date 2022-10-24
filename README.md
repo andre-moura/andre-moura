@@ -12,7 +12,7 @@ function start() {
   :email: <a href="andre.silva@sptech.school" target="_blank"> Email Contact</a>
 </p>
 <p>
-  :ballot_box_with_check: <a href="https://www.linkedin.com/in/andr%C3%A9-moura-815a9a1a7/" target="_blank"> Linkedin</a>
+  :ballot_box_with_check: <a href="https://www.linkedin.com/in/andre-moura-tech/" target="_blank"> Linkedin</a>
 </p>
 <p>
   :computer: <a href="https://andre-moura.github.io/andre-moura-website/" target="_blank"> Personal Website</a>
