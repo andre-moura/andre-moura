@@ -27,6 +27,6 @@ function start() {
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=andre-moura&show_icons=true&locale=en&theme=dracula" alt="andre-moura" style="width:49%;"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andre-moura&theme=dracula" alt="andre-moura" style="width:49%;"/>
+
 <hr>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-moura&theme=dracula" alt="andre-moura" style="width:49%;"/> -->
