@@ -9,7 +9,7 @@ function start() {
 <h3 align="left">How to reach me</h3> 
 
 <p>
-  :email: <a href="andre.silva@sptech.school" target="_blank"> Email Contact</a>
+  :email: <a href="mailto: andre.silva@sptech.school" target="_blank"> Email Contact</a>
 </p>
 <p>
   :ballot_box_with_check: <a href="https://www.linkedin.com/in/andre-moura-tech/" target="_blank"> Linkedin</a>
