@@ -13,7 +13,7 @@ function start() {
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-moura-tech/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?l=pt-BR&text=Oi+Andre+te+encontrei+pelo+Github!&phone=11967080961)
-[![gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mourandre007@gmail.com)
+[![outlook](https://img.shields.io/badge/-Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:andre.moura.tech@outlook.com)
 
 <hr>
   
