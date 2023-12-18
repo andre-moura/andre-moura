@@ -1,4 +1,3 @@
-<h1 align="center">Welcome to Andre's Realm 🏰</h1>
 <p align="center"><img src="https://github.com/andre-moura/andre-moura/blob/main/img/fields.png?raw=true" width="100%" /> </p>
 
 <p align="center">
