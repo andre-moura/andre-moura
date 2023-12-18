@@ -76,6 +76,15 @@ Greetings, traveler! I'm a code-smith who combines ancient wisdom with modern te
   <li>Integrated the system with the bank's existing software infrastructure, facilitating seamless data exchange and operational efficiency.</li>
 </ul>
 
+
+## 🗡️ Guild
+
+<p>
+  <img src="https://github.com/andre-moura/andre-moura/blob/main/img/so_paulo_tech_school_logo.jpeg?raw=true" alt="Career Break Logo" width="48" align="left" style="margin-right: 10px;"/>
+  <b>Bachelor's Degree, Computer Science | <a href="https://www.linkedin.com/school/sptechschool/">SPTECH</a></b><br>
+  <i>Feb 2020 - Dec 2023</i>
+</p>
+
 ## ⚔️ Skills
   
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
