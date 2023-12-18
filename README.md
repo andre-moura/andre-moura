@@ -81,10 +81,48 @@ Greetings, traveler! I'm a code-smith who combines ancient wisdom with modern te
   <li>Integrated the system with the bank's existing software infrastructure, facilitating seamless data exchange and operational efficiency.</li>
 </ul>
 
-## ⚒️ The Armory
+## ⚔️ Skills
+  
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Transact-SQL (T-SQL)](https://img.shields.io/badge/TSQL-4479A1.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688.svg?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black.svg?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Google Cloud Platform (GCP)](https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-black.svg?style=for-the-badge)
+![Postman API](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI_CD-2088FF.svg?style=for-the-badge)
+![Test Automation](https://img.shields.io/badge/Test_Automation-12C2E9.svg?style=for-the-badge)
+![NoSQL](https://img.shields.io/badge/NoSQL-4479A1.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF6C37.svg?style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-007ACC.svg?style=for-the-badge)
+![Agile Methodologies](https://img.shields.io/badge/Agile_Methodologies-007ACC.svg?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-007ACC.svg?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-black.svg?style=for-the-badge)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Swagger API](https://img.shields.io/badge/Swagger_API-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 
-- Languages: 
-- Tools: 
 
 ## 🤝 Allies
 
