@@ -53,15 +53,9 @@ _**Jul 2023 - Present**_
 
 I'm always on the lookout for fellow warriors and sages. Feel free to connect!
 
-## 📜 Enchanted Scrolls
+## 📜 Carrier Pigeons
 
-- 📧 Pigeon Mail: [E-mail](andre.moura.tech@outlook.com)
-- 🔗 Crystal Ball: [LinkedIn](https://www.linkedin.com/in/andre-moura-tech/)
-
-## 🎼 The Bard's Tales
-
-- [Persoal Website](https://andre-moura.netlify.app/)
-
----
+- 📧 [E-mail](andre.moura.tech@outlook.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/andre-moura-tech/)
 
 <p align="center">⚔️ May your code be strong and your bugs few! ⚔️</p>
