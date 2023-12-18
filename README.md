@@ -29,12 +29,12 @@
 
 <p>
   <img src="https://github.com/andre-moura/andre-moura/blob/main/img/calendar3.png?raw=true" alt="Career Break Logo" width="48" align="left" style="margin-right: 10px;"/>
-  <b>Professional development | <a href="https://www.linkedin.com/school/sptechschool/">Career Break</a></b><br>
+  <b>Professional Development | <a href="https://www.linkedin.com/school/sptechschool/">Career Break</a></b><br>
   <i>Dec 2018 - Dec 2019 · 1 yr 1 mo</i>
 </p>
 <p>
     <ul>
-        <li>During this period, I dedicated myself to full-time studies at SPTECH. The university's policy encourages students to commit 100% to their academic pursuits during the first year, ensuring a strong foundation for subsequent years. This immersive experience allowed me to deeply engage with my coursework, develop essential skills, and set the stage for academic success.</li>
+        <li>During this period, I dedicated myself to full-time studies at <a href="https://www.linkedin.com/school/sptechschool/">SPTECH</a>.</b> The university's policy encourages students to commit 100% to their academic pursuits during the first year, ensuring a strong foundation for subsequent years. This immersive experience allowed me to deeply engage with my coursework, develop essential skills, and set the stage for academic success.</li>
     </ul>
 </p>
 
