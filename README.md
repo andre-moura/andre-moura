@@ -28,7 +28,7 @@
 <br/>
 
 <p>
-  <img src="https://github.com/andre-moura/andre-moura/blob/main/img/so_paulo_tech_school_logo.jpeg?raw=true" alt="Career Break Logo" width="48" align="left" style="margin-right: 10px;"/>
+  <img src="https://github.com/andre-moura/andre-moura/blob/main/img/calendar3.png?raw=true" alt="Career Break Logo" width="48" align="left" style="margin-right: 10px;"/>
   <b>Professional development | <a href="https://www.linkedin.com/school/sptechschool/">Career Break</a></b><br>
   <i>Dec 2018 - Dec 2019 · 1 yr 1 mo</i>
 </p>
