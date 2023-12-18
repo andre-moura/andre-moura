@@ -4,7 +4,11 @@
 
 ## 🗡️ About Me
 
-Greetings, traveler! I'm a code-smith who combines ancient wisdom with modern technology. Here, code is not just written; it's forged in the fires of creativity and innovation.
+<p>
+  Greetings, traveler! I'm a code-smith who combines ancient wisdom with modern technology. Here, code is not just written; it's forged in the fires of creativity and innovation.
+</p>
+
+<br/>
 
 ## 🛡️ My Quests
 
@@ -76,6 +80,7 @@ Greetings, traveler! I'm a code-smith who combines ancient wisdom with modern te
   <li>Integrated the system with the bank's existing software infrastructure, facilitating seamless data exchange and operational efficiency.</li>
 </ul>
 
+<br/>
 
 ## 🗡️ Guild
 
@@ -84,6 +89,8 @@ Greetings, traveler! I'm a code-smith who combines ancient wisdom with modern te
   <b>Bachelor's Degree, Computer Science | <a href="https://www.linkedin.com/school/sptechschool/">SPTECH</a></b><br>
   <i>Feb 2020 - Dec 2023</i>
 </p>
+
+<br/>
 
 ## ⚔️ Skills
   
@@ -127,14 +134,19 @@ Greetings, traveler! I'm a code-smith who combines ancient wisdom with modern te
 ![Swagger API](https://img.shields.io/badge/Swagger_API-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 
+<br/>
 
 ## 🤝 Allies
 
 I'm always on the lookout for fellow warriors and sages. Feel free to connect!
 
+<br/>
+
 ## 📜 Carrier Pigeons
 
 - 📧 [E-mail](andre.moura.tech@outlook.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/andre-moura-tech/)
+
+<br/>
 
 <p align="center">⚔️ May your code be strong and your bugs few! ⚔️</p>
