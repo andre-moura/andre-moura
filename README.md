@@ -1,10 +1,5 @@
 <p align="center"><img src="https://github.com/andre-moura/andre-moura/blob/main/img/fields.png?raw=true" width="100%" /> </p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Age-Medieval-green" />
-    <img src="https://img.shields.io/badge/Inspired%20by-Berserk-red" />
-</p>
-
 ---
 
 ## 🗡️ About Me
