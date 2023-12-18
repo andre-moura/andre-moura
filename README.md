@@ -9,7 +9,7 @@
 
 ## 🗡️ About Me
 
-Greetings, traveler! You've entered the kingdom of Andre, a code-smith who combines ancient wisdom with modern technology. Here, code is not just written; it's forged in the fires of creativity and innovation.
+Greetings, traveler! I'm a code-smith who combines ancient wisdom with modern technology. Here, code is not just written; it's forged in the fires of creativity and innovation.
 
 ## 🛡️ My Quests
 
