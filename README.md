@@ -21,7 +21,7 @@
     <ul>
         <li>Conducted the analysis and documentation of business requirements.</li>
         <li>Implemented internal tools and applications, enhancing operational efficiency and employee productivity.</li>
-        <li>Supported the team in streamlining workflows and processes using automation tools, leading to a 20% increase in process efficiency.</li>
+        <li>Developed streamlining workflows and processes using automation tools, leading to a 20% increase in process efficiency.</li>
     </ul>
 </p>
 
