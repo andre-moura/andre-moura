@@ -61,7 +61,7 @@
 </p>
 <ul>
   <li>Deployed a cloud-based infrastructure using AWS/Azure, enhancing system scalability and reliability.</li>
-  <li>Conducted extensive testing and debugging of new software features using tools like Selenium and JUnit, reducing bugs by 40%.</li>
+  <li>Conducted testing and debugging of new software features using tools like Selenium and JUnit, reducing bugs by 40%.</li>
   <li>Implemented version control practices with Git, improving project tracking and team collaboration.</li>
   <li>Facilitated workshops and training sessions for new interns, fostering a supportive and educational environment and improving the onboarding process by 20%.</li>
 </ul>
@@ -75,7 +75,7 @@
 </p>
 <ul>
   <li>Engineered and implemented a comprehensive fraud risk calculation system for a major banking client, enhancing their ability to detect and mitigate fraudulent activities.</li>
-  <li>Collaborated closely with a back-end development team based in the Netherlands, effectively communicating in English to synchronize front-end and back-end operations.</li>
+  <li>Collaborated closely with a back-end development team based in the Netherlands, communicating in English to synchronize front-end and back-end operations.</li>
   <li>Employed robust security measures and encryption protocols in the system design to protect sensitive financial data and ensure compliance with banking regulations.</li>
   <li>Integrated the system with the bank's existing software infrastructure, facilitating seamless data exchange and operational efficiency.</li>
 </ul>
