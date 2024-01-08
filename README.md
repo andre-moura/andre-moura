@@ -19,8 +19,8 @@
 </p>
 <p>
     <ul>
-        <li>Assisted in the analysis and documentation of business requirements.</li>
-        <li>Participated in the development of internal tools and applications, enhancing operational efficiency and employee productivity.</li>
+        <li>Conducted the analysis and documentation of business requirements.</li>
+        <li>Implemented internal tools and applications, enhancing operational efficiency and employee productivity.</li>
         <li>Supported the team in streamlining workflows and processes using automation tools, leading to a 20% increase in process efficiency.</li>
     </ul>
 </p>
@@ -60,7 +60,7 @@
   <i>Nov 2022 - Jul 2023 · 9 mo</i>
 </p>
 <ul>
-  <li>Participated in the deployment of a cloud-based infrastructure using AWS/Azure, enhancing system scalability and reliability.</li>
+  <li>Deployed a cloud-based infrastructure using AWS/Azure, enhancing system scalability and reliability.</li>
   <li>Conducted extensive testing and debugging of new software features using tools like Selenium and JUnit, reducing bugs by 40%.</li>
   <li>Implemented version control practices with Git, improving project tracking and team collaboration.</li>
   <li>Facilitated workshops and training sessions for new interns, fostering a supportive and educational environment and improving the onboarding process by 20%.</li>
@@ -89,6 +89,11 @@
   <b>Bachelor's Degree, Computer Science | <a href="https://www.linkedin.com/school/sptechschool/">SPTECH</a></b><br>
   <i>Feb 2020 - Dec 2023</i>
 </p>
+<ul>
+  <li>Researched Machine Learning and stock price prediction under the guidance of Professor Eduardo Luís de Almeida Verri</li>
+  <li>Executed 4 startup simulation projects, where I played a pivotal role in ideation, prototyping, and pitch presentation.</li>
+  <li>Engaged in a student-driven startup incubator, where I developed a prototype to predict stock price.</li>
+</ul>
 
 <br/>
 
