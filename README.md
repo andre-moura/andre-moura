@@ -30,7 +30,7 @@
 <p>
   <img src="https://github.com/andre-moura/andre-moura/blob/main/img/calendar3.png?raw=true" alt="Career Break Logo" width="48" align="left" style="margin-right: 10px;"/>
   <b>Career Break | <a href="https://www.linkedin.com/school/sptechschool/">College</a></b><br>
-  <i>Dec 2018 - Dec 2019 · 1 yr 1 mo</i>
+  <i>Jan 2020 - Jan 2021 · 1 yr 1 mo</i>
 </p>
 <p>
     <ul>
