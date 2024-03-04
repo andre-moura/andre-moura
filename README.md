@@ -59,8 +59,8 @@
   <i>Nov 2022 - Jul 2023 · 9 mo</i>
 </p>
 <ul>
-  <li>Deployed a cloud-based infrastructure using AWS/Azure, enhancing system scalability and reliability.</li>
-  <li>Conducted testing and debugging of new software features using tools like Selenium and JUnit, reducing bugs by 40%.</li>
+  <li>Deployed a cloud-based infrastructure using AWS, enhancing system scalability and reliability.</li>
+  <li>Conducted testing and debugging of new software features using tools like MSTest, reducing bugs by 40%.</li>
   <li>Implemented version control practices with Git, improving project tracking and team collaboration.</li>
   <li>Facilitated workshops and training sessions for new interns, fostering a supportive and educational environment and improving the onboarding process by 20%.</li>
 </ul>
