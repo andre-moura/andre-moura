@@ -45,8 +45,8 @@
   <i>Feb 2021 - Nov 2022 · 1 yr 10 mo</i>
 </p>
 <ul>
-  <li>Designed and developed 10 new web pages using ASP.NET and ASP.NET MVC, HTML, and JavaScript, leading to a 30% increase in user engagement.</li>
-  <li>Created 12 desktop application pages utilizing C#, leading to a 35% enhancement in operational efficiency.</li>
+  <li>Designed and developed new web pages using ASP.NET and ASP.NET MVC, HTML, and JavaScript, leading to a 30% increase in user engagement.</li>
+  <li>Created desktop application pages utilizing C#, leading to a 35% enhancement in operational efficiency.</li>
   <li>Developed and deployed REST APIs in C#, facilitating seamless communication between software components and elevating application functionality.</li>
   <li>Created and optimized TSQL scripts and procedures, achieving a 40% increase in database performance and a streamlined data retrieval process.</li>
 </ul>
