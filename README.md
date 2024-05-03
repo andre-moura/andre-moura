@@ -41,7 +41,7 @@
 
 <p>
   <img src="https://github.com/andre-moura/andre-moura/blob/main/img/deloitte_logo.jpeg?raw=true" alt="Deloitte Logo" width="48" align="left" style="margin-right: 10px;"/>
-  <b>Software Developer Intern | <a href="https://www.linkedin.com/company/deloitte/">Deloitte</a></b><br>
+  <b>Software Engineer Intern | <a href="https://www.linkedin.com/company/deloitte/">Deloitte</a></b><br>
   <i>Feb 2021 - Nov 2022 · 1 yr 10 mo</i>
 </p>
 <ul>
@@ -55,7 +55,7 @@
 
 <p>
   <img src="https://github.com/andre-moura/andre-moura/blob/main/img/deloitte_logo.jpeg?raw=true" alt="Deloitte Logo" width="48" align="left" style="margin-right: 10px;"/>
-  <b>Junior Software Developer | <a href="https://www.linkedin.com/company/deloitte/">Deloitte</a></b><br>
+  <b>Junior Software Engineer | <a href="https://www.linkedin.com/company/deloitte/">Deloitte</a></b><br>
   <i>Nov 2022 - Jul 2023 · 9 mo</i>
 </p>
 <ul>
@@ -69,7 +69,7 @@
 
 <p>
   <img src="https://github.com/andre-moura/andre-moura/blob/main/img/advice_compliance_solutions_logo.jpeg?raw=true" alt="Advice Compliance Solutions Logo" width="48" align="left" style="margin-right: 10px;"/>
-  <b>Mid-Level Software Developer | <a href="https://www.linkedin.com/company/advice-compliance-solutions">Advice Compliance Solutions</a></b><br>
+  <b>Mid-Level Software Engineer | <a href="https://www.linkedin.com/company/advice-compliance-solutions">Advice Compliance Solutions</a></b><br>
   <i>Jul 2023 - Present</i>
 </p>
 <ul>
