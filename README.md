@@ -13,33 +13,6 @@
 ## 🛡️ My Quests
 
 <p>
-  <img src="https://github.com/andre-moura/andre-moura/blob/main/img/sbkbs_logo.jpeg?raw=true" alt="SBK BS Logo" width="48" align="left" style="margin-right: 10px;"/>
-  <b>Intern | <a href="https://www.linkedin.com/company/sbkbs/">SBK BS</a></b><br>
-  <i>Dec 2018 - Dec 2019 · 1 yr 1 mo</i>
-</p>
-<p>
-    <ul>
-        <li>Conducted the analysis and documentation of business requirements.</li>
-        <li>Developed streamlining workflows and processes using automation tools, leading to a 20% increase in process efficiency.</li>
-    </ul>
-</p>
-
-<br/>
-
-<p>
-  <img src="https://github.com/andre-moura/andre-moura/blob/main/img/calendar3.png?raw=true" alt="Career Break Logo" width="48" align="left" style="margin-right: 10px;"/>
-  <b>Career Break | <a href="https://www.linkedin.com/school/sptechschool/">College</a></b><br>
-  <i>Jan 2020 - Jan 2021 · 1 yr 1 mo</i>
-</p>
-<p>
-    <ul>
-        <li>During this period, I dedicated myself to full-time studies at <a href="https://www.linkedin.com/school/sptechschool/">SPTECH</a>.</b> The college's policy encourages students to commit 100% to their academic pursuits during the first year, ensuring a strong foundation for subsequent years. This immersive experience allowed me to deeply engage with my coursework, develop essential skills, and set the stage for academic success.</li>
-    </ul>
-</p>
-
-<br/>
-
-<p>
   <img src="https://github.com/andre-moura/andre-moura/blob/main/img/deloitte_logo.jpeg?raw=true" alt="Deloitte Logo" width="48" align="left" style="margin-right: 10px;"/>
   <b>Software Engineer Intern | <a href="https://www.linkedin.com/company/deloitte/">Deloitte</a></b><br>
   <i>Feb 2021 - Nov 2022 · 1 yr 10 mo</i>
