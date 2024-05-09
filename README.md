@@ -18,9 +18,9 @@
   <i>Feb 2021 - Nov 2022 · 1 yr 10 mo</i>
 </p>
 <ul>
-  <li>Designed and developed new web pages using ASP.NET and ASP.NET MVC, HTML, and JavaScript, leading to a 30% increase in user engagement.</li>
-  <li>Created desktop application pages utilizing C#, leading to a 35% enhancement in operational efficiency.</li>
-  <li>Developed and deployed REST APIs in C#, facilitating seamless communication between software components and elevating application functionality.</li>
+  <li>Designed and developed new web pages using leading to a 30% increase in user engagement.</li>
+  <li>Created desktop application pages leading to a 35% enhancement in operational efficiency.</li>
+  <li>Developed and deployed REST APIs facilitating seamless communication between software components and elevating application functionality.</li>
   <li>Created and optimized TSQL scripts and procedures, achieving a 40% increase in database performance and a streamlined data retrieval process.</li>
 </ul>
 
@@ -32,10 +32,10 @@
   <i>Nov 2022 - Jul 2023 · 9 mo</i>
 </p>
 <ul>
-  <li>Deployed a cloud-based infrastructure using AWS, enhancing system scalability and reliability.</li>
-  <li>Conducted testing and debugging of new software features using tools like MSTest, reducing bugs by 40%.</li>
+  <li>Conducted testing and debugging of new software features, reducing bugs by 40%.</li>
   <li>Implemented version control practices with Git, improving project tracking and team collaboration.</li>
   <li>Facilitated workshops and training sessions for new interns, fostering a supportive and educational environment and improving the onboarding process by 20%.</li>
+  <li>Deployed a cloud-based infrastructure using AWS, enhancing system scalability and reliability.</li>
 </ul>
 
 <br/>
