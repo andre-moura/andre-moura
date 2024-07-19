@@ -62,9 +62,9 @@
   <i>Feb 2020 - Dec 2023</i>
 </p>
 <ul>
-  <li>Researched Machine Learning and stock price prediction under the guidance of Professor Eduardo Luís de Almeida Verri.</li>
-  <li>Executed 4 startup simulation projects, where I played a pivotal role in ideation, prototyping, and pitch presentation.</li>
-  <li>Engaged in a student-driven startup incubator, where I developed a prototype to predict stock price.</li>
+  <li>Executed 4 startup simulation projects, and played a pivotal role in ideation, prototyping, and pitch presentation.</li>
+  <li>Engaged in a student-driven startup incubator, and developed a prototype to predict stock prices.</li>
+  <li>Researched Machine Learning and stock price prediction under the guidance of Professor Eduardo Luís de Almeida Veri.</li>
 </ul>
 
 <br/>
