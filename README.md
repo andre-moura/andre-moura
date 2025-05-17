@@ -1,16 +1,17 @@
-<p align="center"><img src="https://github.com/andre-moura/andre-moura/blob/main/img/fields.png?raw=true" width="100%" /> </p>
-
----
-
-## 🗡️ About Me
+## My Journey
 
 <p>
-  Greetings, traveler! I'm a code-smith who combines ancient wisdom with modern technology. Here, code is not just written; it's forged in the fires of creativity and innovation.
+  <img src="https://github.com/andre-moura/andre-moura/blob/main/img/so_paulo_tech_school_logo.jpeg?raw=true" alt="Career Break Logo" width="48" align="left" style="margin-right: 10px;"/>
+  <b>Bachelor's Degree, Computer Science | <a href="https://www.linkedin.com/school/sptechschool/">SPTECH</a></b><br>
+  <i>Feb 2020 - Dec 2023</i>
 </p>
+<ul>
+  <li>Executed 4 startup simulation projects, and played a pivotal role in ideation, prototyping, and pitch presentation.</li>
+  <li>Engaged in a student-driven startup incubator, and developed a prototype to predict stock prices.</li>
+  <li>Researched Machine Learning and stock price prediction under the guidance of Professor Eduardo Luís de Almeida Veri.</li>
+</ul>
 
 <br/>
-
-## 🛡️ My Quests
 
 <p>
   <img src="https://github.com/andre-moura/andre-moura/blob/main/img/deloitte_logo.jpeg?raw=true" alt="Deloitte Logo" width="48" align="left" style="margin-right: 10px;"/>
@@ -52,34 +53,8 @@
   <li>Integrated the system with the bank's existing software infrastructure, facilitating seamless data exchange and operational efficiency.</li>
 </ul>
 
-<br/>
+## Contact Me
+ <b>Interested in working together? Let's connect!</b>
 
-## 🗡️ Guilds
-
-<p>
-  <img src="https://github.com/andre-moura/andre-moura/blob/main/img/so_paulo_tech_school_logo.jpeg?raw=true" alt="Career Break Logo" width="48" align="left" style="margin-right: 10px;"/>
-  <b>Bachelor's Degree, Computer Science | <a href="https://www.linkedin.com/school/sptechschool/">SPTECH</a></b><br>
-  <i>Feb 2020 - Dec 2023</i>
-</p>
-<ul>
-  <li>Executed 4 startup simulation projects, and played a pivotal role in ideation, prototyping, and pitch presentation.</li>
-  <li>Engaged in a student-driven startup incubator, and developed a prototype to predict stock prices.</li>
-  <li>Researched Machine Learning and stock price prediction under the guidance of Professor Eduardo Luís de Almeida Veri.</li>
-</ul>
-
-<br/>
-
-## 🤝 Allies
-
-I'm always on the lookout for fellow warriors and sages. Feel free to connect!
-
-<br/>
-
-## 📜 Carrier Pigeons
-
-- 📧 [E-mail](andre.moura.tech@outlook.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/andre-moura-tech/)
-
-<br/>
-
-<p align="center">⚔️ May your code be strong and your bugs few! ⚔️</p>
+- ✉️ [Telegram](https://t.me/PragmaticThoughts) 
