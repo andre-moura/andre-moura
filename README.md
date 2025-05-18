@@ -1,6 +1,6 @@
 
  <img src="https://raw.githubusercontent.com/andre-moura/images/refs/heads/main/andre-moura/banner2.png" alt="Banner" />
- <hr/>
+ <br/>
 
  
 <p>
