@@ -1,5 +1,8 @@
-## My Journey
 
+ <img src="https://raw.githubusercontent.com/andre-moura/images/refs/heads/main/andre-moura/banner2.png" alt="Banner" />
+ <hr/>
+
+ 
 <p>
   <img src="https://github.com/andre-moura/andre-moura/blob/main/img/so_paulo_tech_school_logo.jpeg?raw=true" alt="Career Break Logo" width="48" align="left" style="margin-right: 10px;"/>
   <b>Bachelor's Degree, Computer Science | <a href="https://www.linkedin.com/school/sptechschool/">SPTECH</a></b><br>
