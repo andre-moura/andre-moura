@@ -1,9 +1,9 @@
 
- <img src="https://raw.githubusercontent.com/andre-moura/images/refs/heads/main/andre-moura/banner2.png" alt="Banner" />
+ <img src="https://raw.githubusercontent.com/andre-moura/images/refs/heads/main/andre-moura/banner.png" alt="Banner" />
  <hr/>
  
 <p>
-  <img src="https://github.com/andre-moura/andre-moura/blob/main/img/so_paulo_tech_school_logo.jpeg?raw=true" alt="Career Break Logo" width="48" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/andre-moura/images/refs/heads/main/andre-moura/sptech.png" alt="Career Break Logo" width="48" align="left" style="margin-right: 10px;"/>
   <b>Bachelor's Degree, Computer Science | <a href="https://www.linkedin.com/school/sptechschool/">SPTECH</a></b><br>
   <i>Feb 2020 - Dec 2023</i>
 </p>
@@ -16,7 +16,7 @@
 <br/>
 
 <p>
-  <img src="https://github.com/andre-moura/andre-moura/blob/main/img/deloitte_logo.jpeg?raw=true" alt="Deloitte Logo" width="48" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/andre-moura/images/refs/heads/main/andre-moura/deloitte.png" alt="Deloitte Logo" width="48" align="left" style="margin-right: 10px;"/>
   <b>Software Engineer Intern | <a href="https://www.linkedin.com/company/deloitte/">Deloitte</a></b><br>
   <i>Feb 2021 - Nov 2022 · 1 yr 10 mo</i>
 </p>
@@ -30,7 +30,7 @@
 <br/>
 
 <p>
-  <img src="https://github.com/andre-moura/andre-moura/blob/main/img/deloitte_logo.jpeg?raw=true" alt="Deloitte Logo" width="48" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/andre-moura/images/refs/heads/main/andre-moura/deloitte.png" alt="Deloitte Logo" width="48" align="left" style="margin-right: 10px;"/>
   <b>Junior Software Engineer | <a href="https://www.linkedin.com/company/deloitte/">Deloitte</a></b><br>
   <i>Nov 2022 - Jul 2023 · 9 mo</i>
 </p>
@@ -44,7 +44,7 @@
 <br/>
 
 <p>
-  <img src="https://github.com/andre-moura/andre-moura/blob/main/img/advice_compliance_solutions_logo.jpeg?raw=true" alt="Advice Compliance Solutions Logo" width="48" align="left" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/andre-moura/images/refs/heads/main/andre-moura/advice.png" alt="Advice Compliance Solutions Logo" width="48" align="left" style="margin-right: 10px;"/>
   <b>Mid-Level Software Engineer | <a href="https://www.linkedin.com/company/advice-compliance-solutions">Advice Compliance Solutions</a></b><br>
   <i>Jul 2023 - Present</i>
 </p>
