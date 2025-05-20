@@ -1,5 +1,5 @@
 
- <img src="https://raw.githubusercontent.com/andre-moura/images/refs/heads/main/andre-moura/banner.png?raw=true" alt="Banner" />
+ <img src="https://raw.githubusercontent.com/andre-moura/images/refs/heads/main/andre-moura/bitbanner.png?raw=true" alt="Banner" />
  <hr/>
  
 <p>
